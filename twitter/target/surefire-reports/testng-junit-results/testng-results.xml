@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="17" started-at="2018-10-06T16:08:09Z" finished-at="2018-10-06T16:08:09Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="17" started-at="2018-10-06T16:08:09Z" finished-at="2018-10-06T16:08:09Z">
+      <class name="Social.twitter.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(Social.twitter.AppTest)]" name="testApp" duration-ms="16" started-at="2018-10-06T21:38:09Z" finished-at="2018-10-06T21:38:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- Social.twitter.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

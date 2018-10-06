@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="51893" started-at="2018-10-06T16:07:16Z" finished-at="2018-10-06T16:08:08Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="51893" started-at="2018-10-06T16:07:16Z" finished-at="2018-10-06T16:08:08Z">
+      <class name="NewTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:NewTest@77b52d12]" name="f" duration-ms="31" started-at="2018-10-06T21:37:16Z" finished-at="2018-10-06T21:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- NewTest -->
+      <class name="Social.twitter.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Social.twitter.NewTest@2d554825]" name="beforeClass" is-config="true" duration-ms="26510" started-at="2018-10-06T21:37:16Z" finished-at="2018-10-06T21:37:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openMyBlog()[pri:0, instance:Social.twitter.NewTest@2d554825]" name="openMyBlog" duration-ms="20732" started-at="2018-10-06T21:37:42Z" finished-at="2018-10-06T21:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMyBlog -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Social.twitter.NewTest@2d554825]" name="afterClass" is-config="true" duration-ms="4588" started-at="2018-10-06T21:38:03Z" finished-at="2018-10-06T21:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Social.twitter.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

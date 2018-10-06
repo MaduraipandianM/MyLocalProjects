@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56776" started-at="2018-10-06T15:24:02Z" finished-at="2018-10-06T15:24:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56776" started-at="2018-10-06T15:24:02Z" finished-at="2018-10-06T15:24:58Z">
+      <class name="Social.twitter.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Social.twitter.NewTest@61832929]" name="beforeClass" is-config="true" duration-ms="26758" started-at="2018-10-06T20:54:02Z" finished-at="2018-10-06T20:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openMyBlog()[pri:0, instance:Social.twitter.NewTest@61832929]" name="openMyBlog" duration-ms="25814" started-at="2018-10-06T20:54:28Z" finished-at="2018-10-06T20:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMyBlog -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Social.twitter.NewTest@61832929]" name="afterClass" is-config="true" duration-ms="4131" started-at="2018-10-06T20:54:54Z" finished-at="2018-10-06T20:54:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Social.twitter.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
